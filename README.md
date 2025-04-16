@@ -2,6 +2,8 @@
 
 ## Instalação do dotnet-interactive
 
+Passo 1: Renomear o arquivo .env-model para .env e preencher os valores
+
 ### Windows
 ````
 winget install --id Microsoft.dotnet-interactive --source winget
